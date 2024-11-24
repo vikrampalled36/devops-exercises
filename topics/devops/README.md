@@ -526,7 +526,7 @@ Read more about it [here](https://sre.google/sre-book/eliminating-toil/)
 <details>
 <summary>What is a postmortem ? </summary><br><b>
 
-The postmortem is a process that should take place following an incident. It’s purpose is to identify the root cause of an incident and the actions that should be taken to avoid this kind of incidents from happening again. </b></details>
+The postmortem is a process that should take place following an incident. It’s purpose is to identify the root cause of an incident and the actions that should be taken to avoid this kind of incidents from happening again..</b></details>
 
 
 <details>
